@@ -1,0 +1,1 @@
+This repository contains fundamentals of Javascript and object-oriented javascript.
